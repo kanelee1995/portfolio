@@ -1,2 +1,5 @@
-# it's a WIP project
- 
+### Technology used:
+- EmailJS
+- Animate.css
+- React Icons
+- GSAP
